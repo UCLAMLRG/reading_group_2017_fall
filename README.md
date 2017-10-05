@@ -31,6 +31,6 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 
 | Date | Topic | Readings | Presenter |
 | --- | --- | --- | --- |
-|2017-10-06 | Clustering | | T. Do|
+|2017-10-06 | Clustering  | VadnerPlas Ch. 5 -  [K-Means Clustering](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb) | T. Do|
 
 ## Participants
