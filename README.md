@@ -25,7 +25,7 @@ Potential topics this quarter:
 
 
 ## Schedule
-Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes will be sent via email.
+Meetings will take place on Fridays at 11 am to Noon in **PAB-3-703**. Room changes will be sent via email.
 
 **Organizers**: Tuan Do ([@followthesheep](https://github.com/followthesheep)), Bernie Randles ([@brandles](https://github.com/brandles))
 
