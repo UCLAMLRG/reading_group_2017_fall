@@ -13,10 +13,11 @@ Machine learning is a topic that has risen in prominence recently as we get more
 - Hands-On Machine Learning with Scikit-Learn and TensorFlow
   - Safari Books Online: http://proquest.safaribooksonline.com/book/programming/9781491962282
   - github page: https://github.com/ageron/handson-ml
+- Machine Learning: A Probabilistic Prespective - Kevin P. Murphy
 - Data Analysis: A Bayesian Tutorial - Sivia, D. & Skilling, J. - Not part of regular reading, but this is a useful reference for Bayesian statistics
 
 ## Extra Readings
--Kirkpatrick, K. (2017). It's not the algorithm, it's the data. <i>Communications of the ACM</i>, 60(2), 21-23. https://doi.org/10.1145/3022181 
+-Kirkpatrick, K. (2017). It's not the algorithm, it's the data. <i>Communications of the ACM</i>, 60(2), 21-23. https://doi.org/10.1145/3022181
 
 ## Code Samples
 -- SciServer cosmology and astronomy Jupyter Notebook code samples https://github.com/sciserver/Notebooks
@@ -39,5 +40,5 @@ Meetings will take place on Fridays at 11 am to Noon in **PAB-3-703**. Room chan
 | Date | Topic | Readings | Presenter |
 | --- | --- | --- | --- |
 |2017-10-06 | Clustering  | VadnerPlas Ch. 5 -  [K-Means Clustering](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb) | T. Do|
-
+|2017-10-13 | Gaussian Mixture Modeling  | VadnerPlas Ch. 5 -  [Gaussian-Mixtures ](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb), Murphy Exercise 11.9 | T. Do|
 ## Participants
