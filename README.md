@@ -40,5 +40,5 @@ Meetings will take place on Fridays at 11 am to Noon in **PAB-3-703**. Room chan
 | Date | Topic | Readings | Presenter |
 | --- | --- | --- | --- |
 |2017-10-06 | Clustering  | VadnerPlas Ch. 5 -  [K-Means Clustering](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb) | T. Do|
-|2017-10-13 | Gaussian Mixture Modeling  | VadnerPlas Ch. 5 -  [Gaussian-Mixtures ](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb), Murphy Exercise 11.9 | T. Do|
+|2017-10-13 | Gaussian Mixture Modeling  - Location: 4-330 PAB | VadnerPlas Ch. 5 -  [Gaussian-Mixtures ](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb), Murphy Exercise 11.9 | T. Do|
 ## Participants
