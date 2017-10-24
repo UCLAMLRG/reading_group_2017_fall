@@ -16,6 +16,16 @@ Machine learning is a topic that has risen in prominence recently as we get more
 - Machine Learning: A Probabilistic Prespective - Kevin P. Murphy
 - Data Analysis: A Bayesian Tutorial - Sivia, D. & Skilling, J. - Not part of regular reading, but this is a useful reference for Bayesian statistics
 
+## Quick-Getting started with SciServer Compute
+SciServer.org is a computational cloud environment that Johns Hopkins University (IDIES group) has generously allowed us to use for our projects. Jupyter notebooks/terminal are the interfaces to access datasets such as SDSS. Here's how to clone this github repo into your SciServer account:
+1. Create an account at sciserver.org and go to Compute
+2. Create a new container (Docker container), choose the type to be Python, and a container Jupyter notebook interface will be created.
+3. On the right hand side, go to New-> terminal and a black terminal interface will appear.
+4. In this order in the terminal, type each of these at a time (separated by a comma) and hit enter:
+5. ls, cd home, ls, cd idies, cd workspace, cd persistent, ls, git clone url-of-git-repository-here
+6. the respository will now be in your folder.
+
+
 ## Extra Readings
 -Kirkpatrick, K. (2017). It's not the algorithm, it's the data. <i>Communications of the ACM</i>, 60(2), 21-23. https://doi.org/10.1145/3022181
 
@@ -41,4 +51,5 @@ Meetings will take place on Fridays at 11 am to Noon in **PAB-3-703**. Room chan
 | --- | --- | --- | --- |
 |2017-10-06 | Clustering  | VadnerPlas Ch. 5 -  [K-Means Clustering](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb) | T. Do|
 |2017-10-13 | Gaussian Mixture Modeling  - Location: 4-330 PAB | VadnerPlas Ch. 5 -  [Gaussian-Mixtures ](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb), Murphy Exercise 11.9 | T. Do|
-## Participants
+|2017-10-17 | Neural Networks |deeplearningbook.com, stop at 6.2.2. For some hands-on coding, (http://choonsiong.com/public/books/Big%20Data/Data%20Science%20from%20Scratch.pdf) p. 213 |B. Boscoe |
+
