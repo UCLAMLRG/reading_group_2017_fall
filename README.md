@@ -51,7 +51,7 @@ Meetings will take place on Fridays at 11 am to Noon in **PAB-3-703**. Room chan
 | --- | --- | --- | --- |
 |2017-10-06 | Clustering  | VanderPlas Ch. 5 -  [K-Means Clustering](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb) | T. Do|
 |2017-10-13 | Gaussian Mixture Modeling  - Location: 4-330 PAB | VadnerPlas Ch. 5 -  [Gaussian-Mixtures ](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb), Murphy Exercise 11.9 | T. Do|
-|2017-10-17 | Neural Networks |deeplearningbook.com, stop at 6.2.2. For some hands-on coding, (http://choonsiong.com/public/books/Big%20Data/Data%20Science%20from%20Scratch.pdf) p. 213 |B. Boscoe |
+|2017-10-17 | Neural Networks |deeplearningbook.com, stop at 6.2.2. [For some hands-on coding p. 213](http://choonsiong.com/public/books/Big%20Data/Data%20Science%20from%20Scratch.pdf)  |B. Boscoe |
 |2017-10-27 | | | A. Hees |
 |2017-11-03 | | |  |
 |2017-11-17 | | | A. Gautam, D. Chu |
