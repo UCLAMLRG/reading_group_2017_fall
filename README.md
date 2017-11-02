@@ -53,7 +53,7 @@ Meetings will take place on Fridays at 11 am to Noon in **PAB-3-703**. Room chan
 |2017-10-13 | Gaussian Mixture Modeling  - Location: 4-330 PAB | VadnerPlas Ch. 5 -  [Gaussian-Mixtures ](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb), Murphy Exercise 11.9 | T. Do|
 |2017-10-17 | Neural Networks |deeplearningbook.com, stop at 6.2.2. [For some hands-on coding p. 213](http://choonsiong.com/public/books/Big%20Data/Data%20Science%20from%20Scratch.pdf)  |B. Boscoe |
 |2017-10-27 | TensorFlow |[Ch. 9 Hands-On Machine Learning](http://proquest.safaribooksonline.com/book/programming/9781491962282/9dot-up-and-running-with-tensorflow/tensorflow_chapter_html)| J. Zink |
-|2017-11-03 | | | A. Hees |
+|2017-11-03 | Neural Net Examples & Fitting Functions | [MultiLayerNeuralNetworks](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/), [basic-python-network](https://iamtrask.github.io/2015/07/12/basic-python-network/),[How to Build a Neural Net](https://stevenmiller888.github.io/mind-how-to-build-a-neural-network/), [Fitting Functions](http://www.sciencedirect.com/science/article/pii/S1877050913002093) | A. Hees |
 |2017-11-17 | | | A. Gautam, D. Chu |
 |2017-12-01 | | | |
 |2017-12-08 | | | G. Witzel |
