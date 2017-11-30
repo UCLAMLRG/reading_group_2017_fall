@@ -55,6 +55,6 @@ Meetings will take place on Fridays at 11 am to Noon in **PAB-3-703**. Room chan
 |2017-10-27 | TensorFlow |[Ch. 9 Hands-On Machine Learning](http://proquest.safaribooksonline.com/book/programming/9781491962282/9dot-up-and-running-with-tensorflow/tensorflow_chapter_html)| J. Zink |
 |2017-11-03 | Neural Net Examples & Fitting Functions | [MultiLayerNeuralNetworks](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/), [basic-python-network](https://iamtrask.github.io/2015/07/12/basic-python-network/),[How to Build a Neural Net](https://stevenmiller888.github.io/mind-how-to-build-a-neural-network/), [Fitting Functions](http://www.sciencedirect.com/science/article/pii/S1877050913002093) | A. Hees |
 |2017-11-17 | Convolution Neural Network | [Ch 13 Hands-On ML](http://proquest.safaribooksonline.com/book/programming/9781491962282/13dot-convolutional-neural-networks/cnn_chapter_html), [Dieleman et al. 2015](http://adsabs.harvard.edu/abs/2015MNRAS.450.1441D) | A. Gautam, D. Chu |
-|2017-12-01 | | | |
+|2017-12-01 | Convolution Neural Network Architectures  | [End of Ch 13 Hands-On ML](http://proquest.safaribooksonline.com/book/programming/9781491962282/13dot-convolutional-neural-networks/cnn_chapter_html), [imagenet Challenge](http://image-net.org/challenges/LSVRC/2016/index) | P. Pinchuk |
 |2017-12-08 | | | G. Witzel |
 |2017-12-15 | | | B. Randles, I. Pasquetto|
